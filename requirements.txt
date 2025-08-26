@@ -1,0 +1,9 @@
+streamlit
+lxml
+PyPDF2
+PyMuPDF
+python-dotenv
+google-generativeai
+pinecone==3.0.0
+fuzzywuzzy
+python-Levenshtein

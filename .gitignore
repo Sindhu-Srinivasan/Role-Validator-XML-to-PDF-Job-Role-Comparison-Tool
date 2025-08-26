@@ -1,0 +1,6 @@
+.env
+/src/_pycache_
+/config/_pycache_
+/build/_pycache_
+myenv/
+venv/
